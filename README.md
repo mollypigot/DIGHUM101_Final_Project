@@ -1,4 +1,7 @@
 # DIGHUM101_Final_Project
 
-from IPython.display import Image, display
-display(Image(filename='Presentation .png'))
+![Presentation ](https://github.com/mollypigot/DIGHUM101_Final_Project/assets/134333965/6069ac65-7b8f-4eab-b0d9-34efc180e267)
+
+Analysis of Marx's Work: How communist are the writings of the "father" of communism?
+
+As a sociology major, I have read quite a bit of Marx's work. Learning his theory is an essential part of understanding sociological thinking as it relates to our economy and society. The purpose of his work within canon serves to construct a vital power dynamic that pervades capitalist society; that between the working class and the owners of the means of production. In considering this, I was curious to see how prevalent discussions of communism are within Marx's work. In this project, I wanted to visualize the most common terms in Marx's most important bodies of writing: "The Manifesto of the Communist Party," "Capital, Volume I," "Capital, Volume II," and "Capital, Volume III." These four books are believed to be the most crucial of all that Marx produced in his lifetime. As such, they are the subject of this analysis and are used to create individual wordclouds for each text. Looking at the wordclouds created, it does appear as though discussions of communism are not very prevalent within Marx's works. In all texts, words other than 'communist' or 'communism' appear more frequently and as such, are displayed larger. With this, we can conclude that Marx's works are heavier in discussions of capitalism and aspects of capitalist society than they are in discussions of communism. Overall, it can be concluded that Marx's work is not as "communist" as may be believed and more truly, are mostly critiques of capitalism and capitalist society. Marx's work is inherently anti-capitalist and are incredibly critical of the capitalist system as it creates oppression of the working class.
